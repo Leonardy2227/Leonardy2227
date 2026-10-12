@@ -45,23 +45,21 @@
 ## `Who I Am`
 Hello! My name is **Leonardy Malvin**, and I am a first-semester Computer Engineering student at Institut Teknologi Sepuluh Nopember (ITS). I am interested in robotics, artificial intelligence, computer vision, and embedded systems. I am detail-oriented, possess good communication skills, and value responsibility, perseverance, and a growth mindset. I am always eager to learn, improve my skills, and take on new challenges.
 
+
+
 ## `Skills`
 
 Hard Skills:
-### 💻 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c&theme=dark" />                  
-
-### 🤖 Robotics & Embedded Systems
-
-<img src="https://skillicons.dev/icons?i=arduino,&theme=dark" />
+<div align = "center">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,arduino,html&theme=dark" />  
+</div>
 
 Soft SKills:
-- Teamwork
-- Determined
-- Good communication
-- Responsible
-- Adaptive
+<div align = "center">
+• Teamwork • Determined • Good communication • Responsible • Adaptive
+</div>
+
+
 
 ## `Currently_Learning`
 
@@ -69,7 +67,6 @@ Soft SKills:
 <table>
   <tr>
     <td width="50%" valign="top">
-
 ### Robotics & Autonomous Systems
 
 
@@ -93,7 +90,9 @@ Soft SKills:
 </table>
 </div>
 
-## `> github_stats`
+
+
+## `Github_Stats`
 
 <div align="center">
 
@@ -107,17 +106,15 @@ Soft SKills:
 
 </div>
 
-## `> contribution_graph`
-
 <div align="center">
-
-<img
-  src="https://ghchart.rshah.org/22D3EE/Leonardy2227"
-  alt="GitHub Contribution Graph"
-  width="100%"
-/>
-
+  <img
+    src="https://raw.githubusercontent.com/Leonardy2227/Leonardy2227/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
 </div>
+
+
 
 ## `> let's_connect`
 
