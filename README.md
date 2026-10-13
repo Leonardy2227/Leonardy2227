@@ -46,7 +46,6 @@
 Hello! My name is **Leonardy Malvin**, and I am a first-semester Computer Engineering student at Institut Teknologi Sepuluh Nopember (ITS). I am interested in robotics, artificial intelligence, computer vision, and embedded systems. I am detail-oriented, possess good communication skills, and value responsibility, perseverance, and a growth mindset. I am always eager to learn, improve my skills, and take on new challenges.
 
 
-
 ## `Skills`
 <div align = "center">
 <p>
@@ -57,7 +56,6 @@ Hello! My name is **Leonardy Malvin**, and I am a first-semester Computer Engine
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 </div>
-
 
 
 ## `Currently Learning`
@@ -91,8 +89,7 @@ Hello! My name is **Leonardy Malvin**, and I am a first-semester Computer Engine
 </div>
 
 
-
-## `Github_Stats`
+## `Github Stats`
 
 <div align="center">
 
@@ -110,7 +107,7 @@ Hello! My name is **Leonardy Malvin**, and I am a first-semester Computer Engine
 
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/Leonardy2227/Leonardy2227/output/github-contribution-grid-snake-dark.svg"
+    src="https://raw.githubusercontent.com/Leonardy2227/Leonardy2227/output/github-contribution-grid-snake-dark.svg?sanitize=true"
     alt="GitHub Contribution Snake"
     width="100%"
   />
