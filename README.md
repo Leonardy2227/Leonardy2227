@@ -48,25 +48,25 @@ Hello! My name is **Leonardy Malvin**, and I am a first-semester Computer Engine
 
 
 ## `Skills`
-
-Hard Skills:
 <div align = "center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,arduino,html&theme=dark" />  
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
 </div>
 
-Soft SKills:
-<div align = "center">
-• Teamwork • Determined • Good communication • Responsible • Adaptive
-</div>
 
 
-
-## `Currently_Learning`
+## `Currently Learning`
 
 <div align="center">
 <table>
   <tr>
     <td width="50%" valign="top">
+      
 ### Robotics & Autonomous Systems
 
 
@@ -102,9 +102,11 @@ Soft SKills:
 
 <br/><br/>
 
+---
+
 <img width="95%" src="https://streak-stats.demolab.com?user=Leonardy2227&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=F59E0B&currStreakLabel=22D3EE" alt="GitHub Contribution Streak" />
 
-</div>
+---
 
 <div align="center">
   <img
@@ -114,11 +116,9 @@ Soft SKills:
   />
 </div>
 
-
-
-## `> let's_connect`
-
 <div align="center">
+
+
 
 <a href="https://github.com/Leonardy2227">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -129,8 +129,7 @@ Soft SKills:
 <a href="mailto:leonardymalvin061995@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-
-<br/><br/>
+<br><br>
 
 *Always curious. Always building. Always learning.*
 
