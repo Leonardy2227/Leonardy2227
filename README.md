@@ -45,6 +45,7 @@
 ## `Who I Am`
 Hello! My name is **Leonardy Malvin**, and I am a first-semester Computer Engineering student at Institut Teknologi Sepuluh Nopember (ITS). I have interested in robotics, artificial intelligence, computer vision, and embedded systems. I am aslo detail oriented, possess good communication skills, and value responsibility, perseverance, and a growth mindset. I very like to improve my skills, and take on new challenges.
 
+Link Portofolio: https://portofoio-leonardy.vercel.app/
 
 ## `Skills`
 <div align = "center">
